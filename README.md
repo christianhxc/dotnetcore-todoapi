@@ -3,7 +3,7 @@
 
 In order to start the API you'll need to do the following:
 
-- cd into the src folder
+- cd into the src folder (src/TodoApi/)
 - dotnet restore
 - dotnet run
 
